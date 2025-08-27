@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="container mx-auto flex items-center justify-between px-4 py-4">
         {/* Logo */}
         <div className="flex items-center">
-          <img src={assets.Logo} alt="Logo" className="w-30 h-27" />
+          <img src={assets.logo} alt="Logo" className="w-30 h-27" />
         </div>
 
         {/* Desktop Menu (Increased Text Size) */}

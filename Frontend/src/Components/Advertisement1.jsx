@@ -45,7 +45,7 @@ const Advertisement1 = () => {
                 whileInView={{ opacity: 1, translateX: "0" }}
                 transition={{ delay: 0.3, duration: 1, ease: "easeOut" }}
                 viewport={{ once: true }}
-                src={assets.Office}
+                src={assets.office}
                 alt="Marketing"
                 className="w-full h-full object-cover "
               />

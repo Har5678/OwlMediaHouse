@@ -37,7 +37,7 @@ const Container = () => {
                     whileInView={{ opacity: 1, scale: 1 }}
                     transition={{ delay: 0.4, duration: 1, ease: "easeOut" }}
                     viewport={{ once: true }}
-                    src={assets.Icon}
+                    src={assets.icon}
                     className="w-24 h-24 md:w-full md:h-full bg-transparent mix-blend-multiply"
                 />
             </div>

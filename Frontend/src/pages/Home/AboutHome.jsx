@@ -8,11 +8,11 @@ const AboutHome = () => {
           <div className="absolute w-full h-full top-0 left-0 flex bg-container">
             <div
               className="flex-1 w-screen h-full bg-cover bg-no-repeat bg-moving"
-              style={{ backgroundImage: `url(${assets.Banner})` }}
+              style={{ backgroundImage: `url(${assets.banner})` }}
             ></div>
             <div
               className="flex-1 w-screen h-full bg-cover bg-no-repeat bg-moving"
-              style={{ backgroundImage: `url(${assets.Banner})` }}
+              style={{ backgroundImage: `url(${assets.banner})` }}
             ></div>
           </div>
     

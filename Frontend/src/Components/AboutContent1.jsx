@@ -13,7 +13,7 @@ const AboutContent1 = () => {
           whileInView={{ opacity: 1, translateX: "0" }}
           transition={{ delay: 0.7, duration: 1, ease: "easeOut" }}
           viewport={{ once: true }}
-          src={assets.About} 
+          src={assets.about} 
           alt="Image" 
           className="w-full max-w-xs sm:max-w-sm md:max-w-full h-auto"
         />

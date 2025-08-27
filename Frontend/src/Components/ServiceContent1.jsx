@@ -54,7 +54,7 @@ const ServiceContent1 = () => {
                 {/* White Card */}
                 <div className="bg-white md:border-l-8 md:border-b-8 md:border-black rounded-xl p-6 shadow-lg w-[220px] md:w-[260px] h-[140px] md:h-[160px] flex flex-col justify-center mb-6 md:mb-0 md:absolute md:-top-8 md:left-4">
                     <img
-                        src={assets.Icon5}
+                        src={assets.icon5}
                         alt="Icon"
                         className="mb-4 w-15 h-15"
                     />

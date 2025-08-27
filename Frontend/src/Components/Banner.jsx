@@ -24,7 +24,7 @@ const Banner = () => {
         {/* Right-side Image */}
         <motion.div className="w-full lg:w-2/5 flex justify-center">
           <motion.img
-            src={assets.Owl3}
+            src={assets.owl3}
             alt="Banner"
             className="w-[250px] sm:w-[300px] md:w-[300px] lg:w-[400px] h-auto object-cover"
             initial={{ opacity: 0, scale: 1 }} 

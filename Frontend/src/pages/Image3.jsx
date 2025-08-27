@@ -23,7 +23,7 @@ const Image3 = () => {
      <div
         className="w-full h-screen bg-cover bg-fixed bg-center flex items-center"
         style={{
-          backgroundImage: `url(${assets.Image3})`, // Use a third image
+          backgroundImage: `url(${assets.image3})`, // Use a third image
           backgroundPosition: `center ${scrollY * 0.3}px`,
         }}
       >

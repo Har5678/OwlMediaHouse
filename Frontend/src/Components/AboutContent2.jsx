@@ -29,7 +29,7 @@ const AboutContent2 = () => {
             whileInView={{ opacity: 1, rotateY: 0 }}
             transition={{ delay: 0.7, duration: 0.8, ease: "easeOut" }}
             viewport={{ once: true }}
-            src={assets.Eye} alt="Image" className="max-w-[350px] sm:max-w-[500px] h-auto" />
+            src={assets.eye} alt="Image" className="max-w-[350px] sm:max-w-[500px] h-auto" />
         </div>
         
         {/* Text Section */}

@@ -25,7 +25,7 @@ const Advertisement = () => {
         {/* Card 1 */}
         <div className="bg-white p-9 shadow-md rounded-4xl w-full sm:w-72 md:w-80 lg:w-96 h-72 flex flex-col justify-between space-y-6">
           <img
-            src={assets.Icon1}
+            src={assets.icon1}
             alt="Card 1"
             className="w-28 h-28 object-cover mb-4 rounded-md "
           />
@@ -44,7 +44,7 @@ const Advertisement = () => {
         {/* Card 2 */}
         <div className="bg-white p-9 shadow-md rounded-4xl w-full sm:w-72 md:w-80 lg:w-96 h-72 flex flex-col justify-between space-y-6">
           <img
-            src={assets.Icon2}
+            src={assets.icon2}
             alt="Card 2"
             className="w-28 h-28 object-cover mb-4 rounded-md "
           />
@@ -64,7 +64,7 @@ const Advertisement = () => {
         {/* Card 3 */}
         <div className="bg-white p-9 shadow-md rounded-4xl w-full sm:w-72 md:w-80 lg:w-96 h-72 flex flex-col justify-between space-y-6">
           <img
-            src={assets.Icon3}
+            src={assets.icon3}
             alt="Card 3"
             className="w-28 h-28 object-cover mb-4 rounded-md "
           />
@@ -83,7 +83,7 @@ const Advertisement = () => {
         {/* Card 4 */}
         <div className="bg-white p-9 shadow-md rounded-4xl w-full sm:w-72 md:w-80 lg:w-96 h-72 flex flex-col justify-between space-y-6">
           <img
-            src={assets.Icon4}
+            src={assets.icon4}
             alt="Card 4"
             className="w-28 h-28 object-cover mb-4 rounded-md "
           />
@@ -103,7 +103,7 @@ const Advertisement = () => {
         {/* Card 5 */}
         <div className="bg-white p-9 shadow-md rounded-4xl w-full sm:w-72 md:w-80 lg:w-96 h-72 flex flex-col justify-between space-y-6">
           <img
-            src={assets.Icon5}
+            src={assets.icon5}
             alt="Card 5"
             className="w-28 h-28 object-cover mb-4 rounded-md "
           />
@@ -123,7 +123,7 @@ const Advertisement = () => {
         {/* Card 6 */}
         <div className="bg-white p-9 shadow-md rounded-4xl w-full sm:w-72 md:w-80 lg:w-96 h-72 flex flex-col justify-between space-y-6">
           <img
-            src={assets.Icon6}
+            src={assets.icon6}
             alt="Card 6"
             className="w-28 h-28 object-cover mb-4 rounded-md "
           />

@@ -1,58 +1,56 @@
-import Logo from "./logo.jpg"
-import Icon1 from "./icon1.png"
-import Icon2 from "./icon2.png"
-import Icon3 from "./icon3.png"
-import Icon4 from "./icon4.png"
-import Icon5 from "./icon5.png"
-import Icon6 from "./icon6.png"
-import Banner from "./banner.jpg"
-import Office from "./office.webp"
-import Above from "./above.jpg"
-import Icon from "./icon.png"
-import Footer from "./footer.png"
-
-import Owl3 from "./owl3.png"
-import About from "./about.avif"
-import Eye from "./eye.jpg"
-import Idea from "./idea.png"
-import Omh from "./omh.png"
-import BlackOwl from "./blackOwl.png"
-import Banner1 from "./banner1.webp"
-import Banner2 from "./banner2.webp"
-import Banner3 from "./banner3.webp"
-import Banner4 from "./banner4.webp"
-import Logo3 from "./logo3.webp"
+import logo from "./logo.jpg"
+import icon1 from "./icon1.png"
+import icon2 from "./icon2.png"
+import icon3 from "./icon3.png"
+import icon4 from "./icon4.png"
+import icon5 from "./icon5.png"
+import icon6 from "./icon6.png"
+import banner from "./banner.jpg"
+import office from "./office.webp"
+import above from "./above.jpg"
+import icon from "./icon.png"
+import footer from "./footer.png"
+import owl3 from "./owl3.png"
+import about from "./about.avif"
+import eye from "./eye.jpg"
+import idea from "./idea.png"
+import omh from "./omh.png"
+import blackOwl from "./blackOwl.png"
+import banner1 from "./banner1.webp"
+import banner2 from "./banner2.webp"
+import banner3 from "./banner3.webp"
+import banner4 from "./banner4.webp"
+import logo3 from "./logo3.webp"
 
 
 
 
 
 export const assets={
-  Logo,
-  Icon1,
-  Icon2,
-  Icon3,
 
-  Icon4,
-  Icon5,
-  Icon6,
-  Banner,
-  Office,
-  Above,
-  Icon,
-  Banner1,
-  Banner2,
-  Banner3,
-  Banner4,
-  Footer,
-  
-  Owl3,
-  About,
-  Eye,
-  Idea,
-  Omh,
-  BlackOwl,
-  Logo3
+  logo,
+  icon1,
+  icon2,
+  icon3,
+  icon4,
+  icon5,
+  icon6,
+  banner,
+  office,
+  above,
+  icon,
+  footer,
+  owl3,
+  about,
+  eye,
+  idea,
+  omh,
+  blackOwl,
+  banner1,
+  banner2,
+  banner3,
+  banner4,
+  logo3
 
  
 }

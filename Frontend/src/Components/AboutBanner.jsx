@@ -10,7 +10,7 @@ const AboutBanner = () => {
       <div
         className="absolute inset-0 z-0 bg-center bg-cover bg-opacity-50 bg-opacity-50 opacity-15 bg-[length:10%] lg:bg-[length:30%] bg-no-repeat"
         style={{
-          backgroundImage: `url(${assets.Owl3})`,
+          backgroundImage: `url(${assets.owl3})`,
           backgroundPosition: "center center",
         }}
       ></div>
@@ -57,7 +57,7 @@ const AboutBanner = () => {
           whileInView={{ opacity: 1, translateY: "0" }}
           transition={{ delay: 0.7, duration: 1, ease: "easeOut" }}
           viewport={{ once: true }}
-          src={assets.BlackOwl}
+          src={assets.blackOwl}
           alt="Service Banner"
           className="w-[250px] sm:w-[350px] max-w-xl md:max-w-2xl mx-auto h-[400px] md:h-1/2"
         />

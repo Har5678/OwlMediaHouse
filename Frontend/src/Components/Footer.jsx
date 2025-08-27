@@ -78,7 +78,7 @@ const Footer = () => {
                     <div className="w-full lg:w-1/3 flex justify-center lg:justify-start">
                         <img
                             
-                            src={assets.Logo3}
+                            src={assets.logo3}
                             alt="Brand Monkey Logo"
                             className="h-48 md:h-52 lg:h-60 sm:h-36 -ml-5 sm:-ml-3 -mt-5"
                         />
